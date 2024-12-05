@@ -1,0 +1,16 @@
+body {
+    background-color:antiquewhite;
+}
+
+h1 {
+    color: brown;
+}
+
+label {
+    color:chocolate;
+}
+
+a.volver{
+    position: relative;
+    bottom: -850px;
+}
